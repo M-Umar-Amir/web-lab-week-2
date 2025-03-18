@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/M-Umar-Amir.github.io/web-lab-week-2/static/css/main.cc27ef5c.css",
+    "main.js": "/M-Umar-Amir.github.io/web-lab-week-2/static/js/main.b5c6e04a.js",
+    "static/js/453.ad6eb26e.chunk.js": "/M-Umar-Amir.github.io/web-lab-week-2/static/js/453.ad6eb26e.chunk.js",
+    "index.html": "/M-Umar-Amir.github.io/web-lab-week-2/index.html",
+    "main.cc27ef5c.css.map": "/M-Umar-Amir.github.io/web-lab-week-2/static/css/main.cc27ef5c.css.map",
+    "main.b5c6e04a.js.map": "/M-Umar-Amir.github.io/web-lab-week-2/static/js/main.b5c6e04a.js.map",
+    "453.ad6eb26e.chunk.js.map": "/M-Umar-Amir.github.io/web-lab-week-2/static/js/453.ad6eb26e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cc27ef5c.css",
+    "static/js/main.b5c6e04a.js"
+  ]
+}
